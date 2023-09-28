@@ -764,6 +764,7 @@
     <string name="sort_duration_long_short">Duration (Long \u2192 Short)</string>
     <string name="sort_filename_a_z">File Name (A \u2192 Z)</string>
     <string name="sort_filename_z_a">File Name (Z \u2192 A)</string>
+    <string name="sort_naturally">Obvious</string>
 
     <string name="sort_a_z">A \u2192 Z</string>
     <string name="sort_z_a">Z \u2192 A</string>
